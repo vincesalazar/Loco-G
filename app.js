@@ -1,3 +1,4 @@
+
 //INITIALZING LOCOMOTIVE SCROLL
 var scroll_one = new LocomotiveScroll({
     el: document.querySelector("[data-scroll-container]"),
